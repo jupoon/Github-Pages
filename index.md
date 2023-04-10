@@ -12,6 +12,8 @@ As a wise philospher once said,
 #### Introduction
 I am a 4th year Economics & Political Science double major minoring in Computer Science. I am from Seattle, WA. 
 
+![Image](screenshots/pic.png)
+
 I am proficient in Java, C++, and the statistical computing language R. Here are the CSE courses I have already taken before:
 - CSE 11
 - CSE 12 & 15L

@@ -3,7 +3,7 @@
 ### LAB 1: VSCode, Markdown, and Git Part 1
 
 
-**Hello, my name is Julia. Welcome to my Github page :) You may read my basic introduction [here](https://github.com/jupoon/Github-Pages/edit/main/index.md#introduction) or skip to the [silly section](https://github.com/jupoon/Github-Pages/edit/main/index.md#silly-section) if you want. Read about what I did for this lab [here](https://github.com/jupoon/Github-Pages/edit/main/index.md#lab-1)**
+**Hello, my name is Julia. Welcome to my Github page :) You may read my basic introduction [here](https://github.com/jupoon/Github-Pages/edit/main/index.md#introduction). Read about what I did for this lab [here](https://github.com/jupoon/Github-Pages/edit/main/index.md#lab-1)**
 
 As a wise philospher once said, 
 >*Everyone's undefeated until they aren't*  
